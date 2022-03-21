@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Valengou
+- 👋 Hi, I’m @Valengou, Data Science and Civil Engineer
 - 👀 I’m interested in Python Devs
-- 🌱 I’ve just finished my Data Science bootcamp at Lewagon
+- 🌱 I’ve finished my Data Science bootcamp at Lewagon
 - 💞️ I’m looking to collaborate on Data Science Projects - ML - AI
 - 📫 How to reach me: mail valentingourdy@gmail.com
 
